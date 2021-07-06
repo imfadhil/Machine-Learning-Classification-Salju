@@ -1,0 +1,2 @@
+# Machine-Learning-Classification-Salju
+Pada kasus kali ini diberikan sebuah dataset salju . Dataset tersebut terdiri dari 2 buah data, yaitu berupa data test dan data train. Dari kedua dataset tersebut akan dilakukannya suatu uji coba prediksi terhadap data test, dengan persoalan untuk mencari nilai label pada kolom ‘BersaljuBesok’ pada data test berdasarkan hasil dari data train yang dinputkan kedalam model. Pada pengerjaan kali ini disini kami menggunakan 3 model yaitu Logistic Regression, Naive Bayes, dan Support Vector Machine dengan bantuan library Sklearn. 
